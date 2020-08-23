@@ -9,4 +9,6 @@ qrscan: ^0.2.17
 image_gallery_saver:
 image_picker:
 
+![Scanning Demo](scan.gif)
+![Generation Demo](gen.gif)
 
