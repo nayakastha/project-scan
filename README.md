@@ -9,6 +9,6 @@ qrscan: ^0.2.17
 image_gallery_saver:
 image_picker:
 
-![Scanning Demo](scan.gif)
-![Generation Demo](gen.gif)
+![Scanning Demo](https://github.com/nayakastha/QR_ScanGen/blob/nayakastha-patch-1/Scan.gif)
+![Generation Demo](https://github.com/nayakastha/QR_ScanGen/blob/nayakastha-patch-1/Gen.gif)
 
