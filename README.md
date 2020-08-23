@@ -13,11 +13,11 @@ image_picker:
 
 
 Scanner Demo
-![Scanning Demo](https://github.com/nayakastha/QR_ScanGen/blob/nayakastha-patch-1/Scan.gif)
+![Scanning Demo](https://github.com/nayakastha/QR_ScanGen/blob/master/Scan.gif)
 
 
 
 
 Generator Demo
-![Generation Demo](https://github.com/nayakastha/QR_ScanGen/blob/nayakastha-patch-1/Gen.gif)
+![Generation Demo](https://github.com/nayakastha/QR_ScanGen/blob/master/Gen.gif)
 
