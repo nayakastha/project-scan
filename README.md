@@ -13,12 +13,14 @@ image_gallery_saver:
 image_picker:
 
 
-Scanner Demo
+# Demo
+
+👉 Watch it :Scanner Demo
 ![Scanning Demo](https://github.com/nayakastha/QR_ScanGen/blob/master/Scan.gif)
 
 
 
 
-Generator Demo
+👉 Watch it: Generator Demo
 ![Generation Demo](https://github.com/nayakastha/QR_ScanGen/blob/master/Gen.gif)
 
