@@ -5,7 +5,7 @@ A Flutter application that scans QR Codes to give the decoded data and generates
 **What is a QR code?**
 An advanced barcode that can store information accessible to anyone with a smartphone
 
-The information can be many things (a link, file, text, etc) and is accessed by scanning
+The information can be many things (a link, file, text, etc) and is accessed by scanning.
 
 
 
